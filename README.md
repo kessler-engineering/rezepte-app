@@ -12,7 +12,12 @@ Danach im Browser `http://localhost:8000` öffnen. Ein Doppelklick auf `index.ht
 
 ## Aufs Handy bringen
 
-Für die Installation braucht es HTTPS, also den Ordner z. B. bei GitHub Pages oder Netlify hochladen. Dann die Seite auf dem Handy öffnen und im Browsermenü „Zum Startbildschirm hinzufügen“ bzw. „App installieren“ wählen.
+Die App ist über GitHub Pages online: **https://kessler-engineering.github.io/rezepte-app/**
+
+Jeder Push auf `main` wird nach etwa einer Minute automatisch veröffentlicht.
+
+- **Android (Chrome):** Adresse öffnen → Menü ⋮ → „App installieren“
+- **iPhone (Safari):** Adresse öffnen → Teilen → „Zum Home-Bildschirm“
 
 Die Daten liegen pro Gerät und Browser. Zum Sichern oder Übertragen: Menü ⋮ → „Backup exportieren“ und auf dem anderen Gerät „Backup importieren“.
 
